@@ -1,4 +1,5 @@
 const JFacile = require("jfacile");
 
-JFacile.route("/", "Hello World ! I'm the title", "home");
+JFacile.routeGet("/", "Get Route", "home");
+JFacile.routePost("/post", "Post Route", "Hello");
 JFacile.run(3000);

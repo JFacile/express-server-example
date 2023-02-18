@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jfacile": "^0.2.0"
+    "jfacile": "^0.2.1"
   }
 }
